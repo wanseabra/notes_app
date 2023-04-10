@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "953051059287",
+    "project_id": "notes-app-c1f14",
+    "storage_bucket": "notes-app-c1f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953051059287:android:f7a17bc3dd083ce5753f12",
+        "android_client_info": {
+          "package_name": "com.wanseaba.firebase_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953051059287-9k111lk9eedpa4k60np369s8u80qqqe8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wanseaba.firebase_notes",
+            "certificate_hash": "c994b649a69f58a40d3a58a7861c79b234ef03a9"
+          }
+        },
+        {
+          "client_id": "953051059287-6qkcnr0ojg28uk6jgsdfd8rbmr5vlakv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSYxPdtfQj53x38-scADg3LP6Sk4xRqVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953051059287-6qkcnr0ojg28uk6jgsdfd8rbmr5vlakv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953051059287-enf4vto6kmu6hb9vn3ssa4jcttmdbv42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wanseaba.firebaseNotes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953051059287:android:bca985582f4d49cd753f12",
+        "android_client_info": {
+          "package_name": "com.wanseabra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953051059287-6qkcnr0ojg28uk6jgsdfd8rbmr5vlakv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSYxPdtfQj53x38-scADg3LP6Sk4xRqVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953051059287-6qkcnr0ojg28uk6jgsdfd8rbmr5vlakv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953051059287-enf4vto6kmu6hb9vn3ssa4jcttmdbv42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wanseaba.firebaseNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
