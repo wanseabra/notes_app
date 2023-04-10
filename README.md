@@ -1,6 +1,9 @@
 # firebase_notes
 
-Notes app
+Notes app. Some screenshots below:
+![alt text](https://i.imgur.com/hPxWyip.jpg)
+![alt text](https://i.imgur.com/zcEX5A5.jpg)
+
 
 ## Getting Started
 
